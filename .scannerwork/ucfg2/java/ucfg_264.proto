@@ -1,16 +1,17 @@
 
--domain.Question#getResult()Ljava/lang/String;g
-]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Question.java} }("1* 
-1g
-]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Question.java~	 ~(«
-¨
-g
-]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Question.java~	 ~(
-%0java.lang.String"__id**
-domain.Question"
-result"ƒ
-g
-]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Question.java~ ~(
++domain.User#getUserPass()Ljava/lang/String;c
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/User.java   ("1*‘
+1c
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/User.java!	 !(¥
+¢
+c
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/User.java!	 !(
+%0java.lang.String"__id**
+domain.User"
+
+userPass"
+c
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/User.java! !(
 
-%0java.lang.StringB
-domain.Question
+%0java.lang.StringB
+domain.User

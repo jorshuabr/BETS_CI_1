@@ -1,77 +1,11 @@
 
-7gui.RecargarSaldoGUI#validoCuentaB(Ljava/lang/String;)Zn
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RecargarSaldoGUI.java¾ ¾("4*®
-2n
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RecargarSaldoGUI.javaÄ Ä(	œ
-™
-n
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RecargarSaldoGUI.javaÄ Ä(
-%5java.io.PrintStream"__id*
-""Ÿœ
-n
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RecargarSaldoGUI.javaÄ Ä(G
-
-%6void"0java.io.PrintStream#println(Ljava/lang/String;)V*
-
-%5java.io.PrintStream*20
-.El formato de la cuenta bancaria es incorrecto2println(Ljava/lang/String;)"x
-n
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RecargarSaldoGUI.javaÅ Å(
-""*½
-3n
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RecargarSaldoGUI.javaÂ Â(	œ
-™
-n
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RecargarSaldoGUI.javaÂ Â(
-%3java.io.PrintStream"__id*
-""£ 
-n
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RecargarSaldoGUI.javaÂ Â(K
-
-%4void"0java.io.PrintStream#println(Ljava/lang/String;)V*
-
-%3java.io.PrintStream*64
-2El formato de la cuenta bancaria cumple el formato2println(Ljava/lang/String;)*
-1*Ù
-
-4n
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RecargarSaldoGUI.java¿ ¿(¶
-³
-n
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RecargarSaldoGUI.java¿ ¿(Z
-%0java.util.regex.Pattern"Ljava.util.regex.Pattern#compile(Ljava/lang/String;)Ljava/util/regex/Pattern;*"
-java.util.regex.Pattern*75
-3^[A-Z]{2}[0-9]{2}\\s[0-9]{4}\\s[0-9]{4}\\s[0-9]{4}$¾
-»
-n
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RecargarSaldoGUI.java¿ ¿(["
-patternjava.util.regex.Pattern"__id*
-
-%0java.util.regex.PatternÎË
-n
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RecargarSaldoGUI.javaÀ À((
-%1java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*$
-"
-patternjava.util.regex.Pattern*
-
-cuentabjava.lang.String2!matcher(Ljava/lang/CharSequence;)º
-·
-n
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RecargarSaldoGUI.javaÀ À()
-matjava.util.regex.Matcher"__id*
-
-%1java.util.regex.MatcherÓÐ
-n
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RecargarSaldoGUI.javaÁ Á(
-%2boolean""java.util.regex.Matcher#matches()Z* 
-
-matjava.util.regex.Matcher2	matches()*
-2
-3*í
-1n
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RecargarSaldoGUI.javaÇ	 Ç("x
-n
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RecargarSaldoGUI.javaÇ Ç(
-"":
-cuentabjava.lang.StringB
-gui.RecargarSaldoGUI
+null#isCellEditable(II)Zo
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/CreateForecastGUI.java… …( "1*ï
+1o
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/CreateForecastGUI.java† †("y
+o
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/CreateForecastGUI.java† †(
+"":
+"":
+""B 
+Lgui/CreateForecastGUI$9076;

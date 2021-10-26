@@ -1,15 +1,16 @@
 
-çdataAccess.DataAccess#editarPerfilUsuarioSinPass(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Zo
-cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.java•	 •	(*"3*Ô
-3o
-cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaØ	
- Ø	("y
-o
-cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaØ	 Ø	(
-"":
-	pUsernamejava.lang.String:
-pNombrejava.lang.String:
-	pApellidojava.lang.String:
-pEmailjava.lang.String:#
-pCuentaBancariajava.lang.StringB
-dataAccess.DataAccess
+3domain.RegularUser#getBirthDate()Ljava/lang/String;j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.java# #("1*Ø
+1j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.java$	 $(¥
+±
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.java$	 $(
+%0java.lang.String"__id*%*#
+domain.RegularUser"
+	birthDate"Ü
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.java$ $(
+
+%0java.lang.StringB
+domain.RegularUser

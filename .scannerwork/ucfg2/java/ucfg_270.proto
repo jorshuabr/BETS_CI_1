@@ -1,110 +1,96 @@
 
-bnull#getTableCellRendererComponent(Ljavax/swing/JTable;Ljava/lang/Object;ZZII)Ljava/awt/Component;l
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/AnularApuestaGUI.javak k(1"startingBlock*¶
-2l
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/AnularApuestaGUI.javap> p(C•
-’
-l
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/AnularApuestaGUI.javap> p(I
-%3java.awt.Color"__id*
-""¥
+(domain.User#toString()Ljava/lang/String;c
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/User.java9 9("1*Õ
+1c
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/User.java; ;(¥
 ¢
-l
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/AnularApuestaGUI.javap> p(I
-%1java.awt.Color"__id*
-
-%3java.awt.Color*
-1*ü
-3l
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/AnularApuestaGUI.javap- p(0—”
-l
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/AnularApuestaGUI.javap' p(,
-%2java.awt.Color"java.awt.ColorÁ
-¾
-l
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/AnularApuestaGUI.javap# p(;
-%4"java.awt.Color#<init>(III)V*
-
-%2java.awt.Color*2é*2é*2é¥
-¢
-l
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/AnularApuestaGUI.javap# p(;
-%1java.awt.Color"__id*
-
-%2java.awt.Color*
-1*Æ
-startingBlockl
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/AnularApuestaGUI.javak1 l(+º
-·
-l
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/AnularApuestaGUI.javaj j(
-%6"
-__annotate*
-java.lang.Override*
-
-tablejavax.swing.JTable¤
-¡
-l
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/AnularApuestaGUI.javak9 k(>
-tablejavax.swing.JTable"__annotation*
-
-%6¸
-µ
-l
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/AnularApuestaGUI.javaj j(
-%7"
-__annotate*
-java.lang.Override*
-
-valuejava.lang.Object¢
-Ÿ
-l
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/AnularApuestaGUI.javakG k(L
-valuejava.lang.Object"__annotation*
-
-%7*
-4*¥
-4l
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/AnularApuestaGUI.javam m(ú
-÷
-l
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/AnularApuestaGUI.javam n(
-%0java.awt.Component"ˆjavax.swing.table.DefaultTableCellRenderer#getTableCellRendererComponent(Ljavax/swing/JTable;Ljava/lang/Object;ZZII)Ljava/awt/Component;*
-""*
-
-tablejavax.swing.JTable*
-
-valuejava.lang.Object*
-""*
-""*
-""*
-""¬
-©
-l
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/AnularApuestaGUI.javam n(
-cjava.awt.Component"__id*
-
-%0java.awt.Component*
-2
-3*†
-1l
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/AnularApuestaGUI.javap p(J†ƒ
-l
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/AnularApuestaGUI.javap p(J
+c
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/User.java; ;(*
+%0java.lang.String"__id**
+domain.User"
 
-%5void"3java.awt.Component#setBackground(Ljava/awt/Color;)V*
+userName´
+±
+c
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/User.java; ;(*
+%1java.lang.String"__concat*
+
+userName: *
+
+%0java.lang.String¶
+³
+c
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/User.java; ;(;
+%2java.lang.String"__concat*
+
+%1java.lang.String*
+\nuserPass: ¥
+¢
+c
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/User.java;> ;(K
+%3java.lang.String"__id**
+domain.User"
+
+userPass¾
+»
+c
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/User.java; ;(K
+%4java.lang.String"__concat*
+
+%2java.lang.String*
+
+%3java.lang.String·
+´
+c
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/User.java; ;(]
+%5java.lang.String"__concat*
+
+%4java.lang.String*
+\nfirstName: ¦
+£
+c
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/User.java;` ;(n
+%6java.lang.String"__id**
+domain.User"
+	firstName¾
+»
+c
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/User.java; ;(n
+%7java.lang.String"__concat*
+
+%5java.lang.String*
+
+%6java.lang.String¶
+³
+c
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/User.java; <(
+%8java.lang.String"__concat*
+
+%7java.lang.String*
+\nlastName: ¥
+¢
+c
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/User.java< <($
+%9java.lang.String"__id**
+domain.User"
+
+lastName¿
+¼
+c
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/User.java; <($
+%10java.lang.String"__concat*
+
+%8java.lang.String*
+
+%9java.lang.String¡
+ž
+c
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/User.java; <(%
+stjava.lang.String"__id*
 
-cjava.awt.Component*
-
-%1java.awt.Color2setBackground(Ljava/awt/Color;)"‰
-l
-bC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/AnularApuestaGUI.javar r(
-
-cjava.awt.Component:
-tablejavax.swing.JTable:
-valuejava.lang.Object:
-"":
-"":
-"":
-""B
-Lgui/AnularApuestaGUI$3627;
+%10java.lang.String"
+c
+YC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/User.java= =(
+
+stjava.lang.StringB
+domain.User

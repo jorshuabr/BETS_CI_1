@@ -1,11 +1,16 @@
 
-@dataAccess.DataAccess#aplicarBonoBienvenida(Ljava/lang/String;)Zo
-cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaº º(%"2*ï
-2o
-cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaÁ
- Á("y
-o
-cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaÁ Á(
-"":
-userjava.lang.StringB
-dataAccess.DataAccess
+4domain.RegularUser#getPhoneNumb()Ljava/lang/Integer;j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.java; ;("1*±
+1j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.java<	 <(µ
+²
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.java<	 <(
+%0java.lang.Integer"__id*%*#
+domain.RegularUser"
+	phoneNumb"‡
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.java< <(
+
+%0java.lang.IntegerB
+domain.RegularUser

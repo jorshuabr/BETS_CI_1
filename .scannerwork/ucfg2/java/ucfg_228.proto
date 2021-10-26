@@ -1,9 +1,12 @@
 
-+dataAccess.DataAccess#getNumberForecasts()Io
-cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaí í("1*ï
-1o
-cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaî î("y
+IdataAccess.DataAccess#recargarSaldo(Ljava/lang/String;Ljava/lang/Float;)Zo
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaÈ È("2*ï
+2o
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaÏ
+ Ï("y
 o
-cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javað ð(&
-""B
+cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaÏ Ï(
+"":
+userjava.lang.String:
+importejava.lang.FloatB
 dataAccess.DataAccess

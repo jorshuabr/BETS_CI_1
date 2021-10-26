@@ -1,18 +1,16 @@
 
-?dataAccess.DataAccess#getMaxIdForecastInDB()Ljava/lang/Integer;o
-cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaÓ	 Ó	($"1*Ÿ
-1o
-cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaÕ	 Õ	(/Œ‰
-o
-cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaÕ	 Õ	(-
-%0"java.util.Vectorž
-›
-o
-cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaÕ	 Õ	(/
-%1"java.util.Vector#<init>()V*
-
-%0"y
-o
-cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaÙ	 Ù	(A
-""B
-dataAccess.DataAccess
+/domain.RegularUser#getEmail()Ljava/lang/String;j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.java+ +("1*«
+1j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.java,	 ,(°
+­
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.java,	 ,(
+%0java.lang.String"__id*!*
+domain.RegularUser"
+email"†
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.java, ,(
+
+%0java.lang.StringB
+domain.RegularUser

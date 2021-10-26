@@ -1,17 +1,17 @@
 
-7configuration.ConfigXML#getPassword()Ljava/lang/String;o
-eC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/configuration/ConfigXML.java= =("1*¬
-1o
-eC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/configuration/ConfigXML.java>	 >(Ω
-∫
-o
-eC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/configuration/ConfigXML.java>	 >(
-%0java.lang.String"__id*)*'
-configuration.ConfigXML"
+9configuration.ConfigXML#getDbFilename()Ljava/lang/String;q
+eC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/configuration/ConfigXML.javaõ õ("1* 
+1q
+eC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/configuration/ConfigXML.javaú	 ú(¡
+æ
+q
+eC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/configuration/ConfigXML.javaú	 ú(
+%0java.lang.String"__id*+*)
+configuration.ConfigXML"
 
-password"ã
-o
-eC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/configuration/ConfigXML.java> >(
+dbFilename"ç
+q
+eC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/configuration/ConfigXML.javaú ú(
 
 %0java.lang.StringB
 configuration.ConfigXML

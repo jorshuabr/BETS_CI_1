@@ -1,35 +1,16 @@
 
-DdataAccess.DataAccess#doLogin(Ljava/lang/String;Ljava/lang/String;)Zo
-cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.java³
- ³
-("3"9"1*ï
-3o
-cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaÃ
- Ã
-("y
-o
-cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaÃ
- Ã
-(
-""*ï
-9o
-cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaº
- º
-("y
-o
-cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaº
- º
-(
-""*ï
-1o
-cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaÇ
-	 Ç
-("y
-o
-cC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/dataAccess/DataAccess.javaÇ
- Ç
-(
-"":
-usernamejava.lang.String:
-passjava.lang.StringB
-dataAccess.DataAccess
+5domain.RegularUser#getBankAccount()Ljava/lang/String;j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.java3 3("1*±
+1j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.java4	 4(¶
+³
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.java4	 4(
+%0java.lang.String"__id*'*%
+domain.RegularUser"
+bankAccount"†
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.java4 4(
+
+%0java.lang.StringB
+domain.RegularUser

@@ -1,77 +1,110 @@
 
-2gui.RegisterGUI#validoCuentaB(Ljava/lang/String;)Zi
-]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java˛ ˛("4*ö
-2i
-]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÑ Ñ(	ó
-î
-i
-]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÑ Ñ(
-%5java.io.PrintStream"__id*
-""öó
-i
-]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÑ Ñ(G
-
-%6void"0java.io.PrintStream#println(Ljava/lang/String;)V*
-
-%5java.io.PrintStream*20
-.El formato de la cuenta bancaria es incorrecto2println(Ljava/lang/String;)"s
-i
-]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÖ Ö(
-""*Æ
-3i
-]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÇ Ç(	ó
-î
-i
-]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÇ Ç(
-%3java.io.PrintStream"__id*
-""ûõ
-i
-]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÇ Ç(K
-
-%4void"0java.io.PrintStream#println(Ljava/lang/String;)V*
-
-%3java.io.PrintStream*64
-2El formato de la cuenta bancaria cumple el formato2println(Ljava/lang/String;)*
-1*ª
-
-4i
-]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaˇ ˇ(±
-Æ
-i
-]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaˇ ˇ(Z
-%0java.util.regex.Pattern"Ljava.util.regex.Pattern#compile(Ljava/lang/String;)Ljava/util/regex/Pattern;*"
-java.util.regex.Pattern*75
-3^[A-Z]{2}[0-9]{2}\\s[0-9]{4}\\s[0-9]{4}\\s[0-9]{4}$π
-∂
-i
-]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaˇ ˇ(["
-patternjava.util.regex.Pattern"__id*
-
-%0java.util.regex.Pattern…∆
-i
-]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÄ Ä((
-%1java.util.regex.Matcher"Rjava.util.regex.Pattern#matcher(Ljava/lang/CharSequence;)Ljava/util/regex/Matcher;*$
-"
-patternjava.util.regex.Pattern*
+bnull#getTableCellRendererComponent(Ljavax/swing/JTable;Ljava/lang/Object;ZZII)Ljava/awt/Component;j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.java» »(1"startingBlock*∞
+2j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÕ> Õ(Cì
+ê
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÕ> Õ(I
+%3java.awt.Color"__id*
+""£
+†
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÕ> Õ(I
+%1java.awt.Color"__id*
+
+%3java.awt.Color*
+1*Ù
+3j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÕ- Õ(0ïí
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÕ' Õ(,
+%2java.awt.Color"java.awt.Colorø
+º
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÕ# Õ(;
+%4"java.awt.Color#<init>(III)V*
+
+%2java.awt.Color*2È*2È*2È£
+†
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÕ# Õ(;
+%1java.awt.Color"__id*
+
+%2java.awt.Color*
+1*º
+startingBlockj
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.java»1 …(+∏
+µ
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.java« «(
+%6"
+__annotate*
+java.lang.Override*
 
-cuentabjava.lang.String2!matcher(Ljava/lang/CharSequence;)µ
-≤
-i
-]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÄ Ä()
-matjava.util.regex.Matcher"__id*
-
-%1java.util.regex.MatcherŒÀ
-i
-]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÅ Å(
-%2boolean""java.util.regex.Matcher#matches()Z* 
-
-matjava.util.regex.Matcher2	matches()*
+tablejavax.swing.JTable¢
+ü
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.java»9 »(>
+tablejavax.swing.JTable"__annotation*
+
+%6∂
+≥
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.java« «(
+%7"
+__annotate*
+java.lang.Override*
+
+valuejava.lang.Object†
+ù
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.java»G »(L
+valuejava.lang.Object"__annotation*
+
+%7*
+4*ü
+4j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.java   (¯
+ı
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.java  À(
+%0java.awt.Component"àjavax.swing.table.DefaultTableCellRenderer#getTableCellRendererComponent(Ljavax/swing/JTable;Ljava/lang/Object;ZZII)Ljava/awt/Component;*
+""*
+
+tablejavax.swing.JTable*
+
+valuejava.lang.Object*
+""*
+""*
+""*
+""™
+ß
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.java  À(
+cjava.awt.Component"__id*
+
+%0java.awt.Component*
 2
-3*„
-1i
-]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaá	 á("s
-i
-]C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaá á(
-"":
-cuentabjava.lang.StringB
-gui.RegisterGUI
+3*Ä
+1j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÕ Õ(JÑÅ
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaÕ Õ(J
+
+%5void"3java.awt.Component#setBackground(Ljava/awt/Color;)V*
+
+cjava.awt.Component*
+
+%1java.awt.Color2setBackground(Ljava/awt/Color;)"á
+j
+^C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/CreateBetGUI.javaœ œ(
+
+cjava.awt.Component:
+tablejavax.swing.JTable:
+valuejava.lang.Object:
+"":
+"":
+"":
+""B
+Lgui/CreateBetGUI$10768;

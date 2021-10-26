@@ -1,16 +1,16 @@
 
-3configuration.ConfigXML#getUser()Ljava/lang/String;o
-eC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/configuration/ConfigXML.java9 9("1*æ
-1o
-eC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/configuration/ConfigXML.java:	 :(π
-∂
-o
-eC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/configuration/ConfigXML.java:	 :(
-%0java.lang.String"__id*%*#
-configuration.ConfigXML"
-user"ã
-o
-eC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/configuration/ConfigXML.java: :(
+@configuration.ConfigXML#getBusinessLogicName()Ljava/lang/String;q
+eC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/configuration/ConfigXML.javaó ó(#"1*—
+1q
+eC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/configuration/ConfigXML.javaò	 ò(»
+≈
+q
+eC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/configuration/ConfigXML.javaò	 ò(
+%0java.lang.String"__id*2*0
+configuration.ConfigXML"
+businessLogicName"ç
+q
+eC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/configuration/ConfigXML.javaò ò(
 
 %0java.lang.StringB
 configuration.ConfigXML

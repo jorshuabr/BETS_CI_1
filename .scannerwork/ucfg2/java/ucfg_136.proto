@@ -1,9 +1,110 @@
 
-)__sonar_lambda_3$test.CreateApuestaDATestp
-fC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/test/java/test/CreateApuestaDATest.javaP P(G"1*Ò
-1p
-fC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/test/java/test/CreateApuestaDATest.javaP% P(("z
-p
-fC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/test/java/test/CreateApuestaDATest.javaP% P(G
-""B
-	!Unknown!
+bnull#getTableCellRendererComponent(Ljavax/swing/JTable;Ljava/lang/Object;ZZII)Ljava/awt/Component;r
+fC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.javaŒ Œ(1"startingBlock*»
+2r
+fC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java”> ”(Cõ
+ò
+r
+fC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java”> ”(I
+%3java.awt.Color"__id*
+""´
+®
+r
+fC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java”> ”(I
+%1java.awt.Color"__id*
+
+%3java.awt.Color*
+1*î
+3r
+fC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java”- ”(0ùö
+r
+fC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java”' ”(,
+%2java.awt.Color"java.awt.Color«
+ƒ
+r
+fC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java”# ”(;
+%4"java.awt.Color#<init>(III)V*
+
+%2java.awt.Color*2È*2È*2È´
+®
+r
+fC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java”# ”(;
+%1java.awt.Color"__id*
+
+%2java.awt.Color*
+1*‰
+startingBlockr
+fC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.javaŒ1 œ(+¿
+Ω
+r
+fC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.javaÕ Õ(
+%6"
+__annotate*
+java.lang.Override*
+
+tablejavax.swing.JTable™
+ß
+r
+fC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.javaŒ9 Œ(>
+tablejavax.swing.JTable"__annotation*
+
+%6æ
+ª
+r
+fC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.javaÕ Õ(
+%7"
+__annotate*
+java.lang.Override*
+
+valuejava.lang.Object®
+•
+r
+fC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.javaŒG Œ(L
+valuejava.lang.Object"__annotation*
+
+%7*
+4*∑
+4r
+fC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java– –(Ä
+˝
+r
+fC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java– —(
+%0java.awt.Component"àjavax.swing.table.DefaultTableCellRenderer#getTableCellRendererComponent(Ljavax/swing/JTable;Ljava/lang/Object;ZZII)Ljava/awt/Component;*
+""*
+
+tablejavax.swing.JTable*
+
+valuejava.lang.Object*
+""*
+""*
+""*
+""≤
+Ø
+r
+fC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java– —(
+cjava.awt.Component"__id*
+
+%0java.awt.Component*
+2
+3*ò
+1r
+fC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java” ”(Jåâ
+r
+fC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java” ”(J
+
+%5void"3java.awt.Component#setBackground(Ljava/awt/Color;)V*
+
+cjava.awt.Component*
+
+%1java.awt.Color2setBackground(Ljava/awt/Color;)"è
+r
+fC:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/HistorialApuestasGUI.java’ ’(
+
+cjava.awt.Component:
+tablejavax.swing.JTable:
+valuejava.lang.Object:
+"":
+"":
+"":
+""B#!
+Lgui/HistorialApuestasGUI$7165;
