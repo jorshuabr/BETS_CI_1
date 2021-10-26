@@ -1,141 +1,141 @@
 
-/domain.RegularUser#toString()Ljava/lang/String;l
-bC:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaT T("1*É
-1l
-bC:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU U(À
-½
-l
-bC:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU U(
+/domain.RegularUser#toString()Ljava/lang/String;j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaT T("1*Ÿ
+1j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU U(¾
+»
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU U(
 %0java.lang.String"-java.lang.Object#toString()Ljava/lang/String;*
-""À
-½
-l
-bC:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU U(0
+""¾
+»
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU U(0
 %1java.lang.String"__concat*
 
 %0java.lang.String*
-\nbirthDate: ¶
-³
-l
-bC:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU3 U(<
+\nbirthDate: ´
+±
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU3 U(<
 %2java.lang.String"__id*%*#
 domain.RegularUser"
-	birthDateÇ
-Ä
-l
-bC:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU U(<
+	birthDateÅ
+Â
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU U(<
 %3java.lang.String"__concat*
 
 %1java.lang.String*
 
-%2java.lang.String»
-¸
-l
-bC:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU U(I
+%2java.lang.String¹
+¶
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU U(I
 %4java.lang.String"__concat*
 
 %3java.lang.String*
 
-\nemail:²
-¯
-l
-bC:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaUL U(Q
+\nemail:°
+­
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaUL U(Q
 %5java.lang.String"__id*!*
 domain.RegularUser"
-emailÇ
-Ä
-l
-bC:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU U(Q
+emailÅ
+Â
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU U(Q
 %6java.lang.String"__concat*
 
 %4java.lang.String*
 
-%5java.lang.StringÂ
-¿
-l
-bC:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU U(e
+%5java.lang.StringÀ
+½
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU U(e
 %7java.lang.String"__concat*
 
 %6java.lang.String*
-\nbankAccount: ¸
-µ
-l
-bC:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaV V(
+\nbankAccount: ¶
+³
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaV V(
 %8java.lang.String"__id*'*%
 domain.RegularUser"
-bankAccountÇ
-Ä
-l
-bC:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU V(
+bankAccountÅ
+Â
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU V(
 %9java.lang.String"__concat*
 
 %7java.lang.String*
 
-%8java.lang.StringÁ
-¾
-l
-bC:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU V(#
+%8java.lang.String¿
+¼
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU V(#
 %10java.lang.String"__concat*
 
 %9java.lang.String*
-\nphoneNumb: ¸
-µ
-l
-bC:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaV& V(/
+\nphoneNumb: ¶
+³
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaV& V(/
 %11java.lang.Integer"__id*%*#
 domain.RegularUser"
-	phoneNumbË
-È
-l
-bC:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU V(/
+	phoneNumbÉ
+Æ
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU V(/
 %12java.lang.String"__concat*
 
 %10java.lang.String*
 
-%11java.lang.IntegerÀ
-½
-l
-bC:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU V(?
+%11java.lang.Integer¾
+»
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU V(?
 %13java.lang.String"__concat*
 
 %12java.lang.String*
-\naddress: µ
-²
-l
-bC:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaVB V(I
+\naddress: ³
+°
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaVB V(I
 %14java.lang.String"__id*#*!
 domain.RegularUser"	
-addressÊ
-Ç
-l
-bC:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU V(I
+addressÈ
+Å
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU V(I
 %15java.lang.String"__concat*
 
 %13java.lang.String*
 
-%14java.lang.String¾
-»
-l
-bC:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU V(W
+%14java.lang.String¼
+¹
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU V(W
 %16java.lang.String"__concat*
 
 %15java.lang.String*
-	\nsaldo: ·
-´
-l
-bC:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU V(_
+	\nsaldo: µ
+²
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU V(_
 %17java.lang.String"__concat*
 
 %16java.lang.String*
-""ª
-§
-l
-bC:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU V(`
+""¨
+¥
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaU V(`
 stjava.lang.String"__id*
 
-%17java.lang.String"ˆ
-l
-bC:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaW W(
+%17java.lang.String"†
+j
+`C:/Users/jorsh/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/RegularUser.javaW W(
 
 stjava.lang.StringB
 domain.RegularUser
