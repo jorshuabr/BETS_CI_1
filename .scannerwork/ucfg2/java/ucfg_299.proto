@@ -1,0 +1,37 @@
+
+)domain.Event#toString()Ljava/lang/String;f
+\C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Event.javaT T("1*Æ
+1f
+\C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Event.javaU	 U(­
+ª
+f
+\C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Event.javaU	 U(
+%0java.lang.Integer"__id*!*
+domain.Event"
+eventNumber°
+­
+f
+\C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Event.javaU	 U(
+%1java.lang.String"__concat*
+
+%0java.lang.Integer*
+; ¬
+©
+f
+\C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Event.javaU U()
+%2java.lang.String"__id*!*
+domain.Event"
+descriptionÁ
+¾
+f
+\C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Event.javaU	 U()
+%3java.lang.String"__concat*
+
+%1java.lang.String*
+
+%2java.lang.String"‚
+f
+\C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/domain/Event.javaU U(*
+
+%3java.lang.StringB
+domain.Event

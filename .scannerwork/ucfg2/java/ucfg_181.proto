@@ -1,0 +1,125 @@
+
+-gui.MainGUI#getlblSaldo()Ljavax/swing/JLabel;g
+[C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaå å("3*ª
+2g
+[C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaé é('ã
+à
+g
+[C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaé é(>
+%1java.util.ResourceBundle"Pjava.util.ResourceBundle#getBundle(Ljava/lang/String;)Ljava/util/ResourceBundle;*"
+java.util.ResourceBundle*
+	Etiquetas•¢
+g
+[C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaé é(\
+%2java.lang.String"Hjava.util.ResourceBundle#getString(Ljava/lang/String;)Ljava/lang/String;* 
+
+%1java.util.ResourceBundle*
+MainGUI.lblSaldo2getString(Ljava/lang/String;)öó
+g
+[C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaé é(
+%3javax.swing.JLabel"javax.swing.JLabel∆
+√
+g
+[C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaé è($
+%4".javax.swing.JLabel#<init>(Ljava/lang/String;)V*
+
+%3javax.swing.JLabel*
+""´
+®
+g
+[C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaé è($
+gui.MainGUI"
+
+lblSaldo"__id*
+
+%3javax.swing.JLabel´
+®
+g
+[C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaê ê(
+%5javax.swing.JLabel"__id**
+gui.MainGUI"
+
+lblSaldo„‡
+g
+[C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaê ê($
+
+%6void"#java.awt.Component#setBounds(IIII)V*
+
+%5javax.swing.JLabel*2*2*2Õ*22setBounds(IIII)´
+®
+g
+[C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaë ë(
+%7javax.swing.JLabel"__id**
+gui.MainGUI"
+
+lblSaldoÖ
+Ç
+g
+[C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaë' ë(0	
+%8int"__id*
+""êç
+g
+[C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaë ë(
+%9java.awt.Font"java.awt.Font÷
+”
+g
+[C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaë ë(5
+%10"+java.awt.Font#<init>(Ljava/lang/String;II)V*
+
+%9java.awt.Font*
+
+Tahoma*
+	
+%8int*2¯ı
+g
+[C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaë ë(6
+%11void"0javax.swing.JComponent#setFont(Ljava/awt/Font;)V*
+
+%7javax.swing.JLabel*
+
+%9java.awt.Font2setFont(Ljava/awt/Font;)¨
+©
+g
+[C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaí í(
+%12javax.swing.JLabel"__id**
+gui.MainGUI"
+
+lblSaldoë
+é
+g
+[C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaí í(%
+%13java.awt.Color"__id*
+""âÜ
+g
+[C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaí í(&
+%14void"7javax.swing.JComponent#setForeground(Ljava/awt/Color;)V*
+
+%12javax.swing.JLabel*
+
+%13java.awt.Color2setForeground(Ljava/awt/Color;)*
+1*¢
+3g
+[C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaç ç(´
+®
+g
+[C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaç ç(
+%0javax.swing.JLabel"__id**
+gui.MainGUI"
+
+lblSaldo*
+2
+1*§
+1g
+[C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaî	 î(¨
+©
+g
+[C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaî	 î(
+%15javax.swing.JLabel"__id**
+gui.MainGUI"
+
+lblSaldo"Ü
+g
+[C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/MainGUI.javaî î(
+
+%15javax.swing.JLabelB
+gui.MainGUI

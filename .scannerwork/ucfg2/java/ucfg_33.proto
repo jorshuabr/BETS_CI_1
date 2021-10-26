@@ -1,0 +1,56 @@
+
+1gui.RegisterGUI#validoNombre(Ljava/lang/String;)Zk
+_C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java• •("7*Á
+3k
+_C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java™ ™("u
+k
+_C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java™ ™(
+""*î
+4k
+_C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java©8 ©(AÕ 
+k
+_C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java©O ©(c
+%3char[]" java.lang.String#toCharArray()[C*
+
+nombrejava.lang.String2toCharArray()∆
+√
+k
+_C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java©8 ©(g
+%4boolean"$java.lang.Character#isWhitespace(C)Z*"
+java.lang.Character*
+""*	
+3
+5
+1*ê
+5k
+_C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java© ©(Õ 
+k
+_C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java© ©(/
+%1char[]" java.lang.String#toCharArray()[C*
+
+nombrejava.lang.String2toCharArray()¬
+ø
+k
+_C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java© ©(3
+%2boolean" java.lang.Character#isLetter(C)Z*"
+java.lang.Character*
+""*	
+4
+5
+1*»
+7k
+_C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java¶ ¶(Õ 
+k
+_C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.java¶ ¶(%
+%0char[]" java.lang.String#toCharArray()[C*
+
+nombrejava.lang.String2toCharArray()*
+5
+1*Á
+1k
+_C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÆ	 Æ("u
+k
+_C:/Users/Jorshua/OneDrive/Uni/III/IS2/eclipse/ISBets21MAUBRY/src/main/java/gui/RegisterGUI.javaÆ Æ(
+"":
+nombrejava.lang.StringB
+gui.RegisterGUI

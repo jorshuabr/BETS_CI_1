@@ -1,0 +1,7 @@
+organization=jorshuabr
+projectKey=ISBets21BRYMAUJOR
+serverUrl=https://sonarcloud.io
+serverVersion=8.0.0.23912
+dashboardUrl=https://sonarcloud.io/dashboard?id=ISBets21BRYMAUJOR
+ceTaskId=AXyVWXxXujezI92cDHrY
+ceTaskUrl=https://sonarcloud.io/api/ce/task?id=AXyVWXxXujezI92cDHrY
