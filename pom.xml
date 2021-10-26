@@ -2,8 +2,8 @@
 	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>Bets_CI_1</groupId>
-	<artifactId>ISBets21MAUBRY</artifactId>
+	<groupId>BetsCI</groupId>
+	<artifactId>BestCI</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 
 	<build>
@@ -75,7 +75,7 @@
 		<maven.compiler.source>11</maven.compiler.source>
 		<sonar.organization>jorshuabr</sonar.organization>
 		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
-		<sonar.login>eb4b39225b129ee42a6ffd7cb60603ee9a2401f4</sonar.login>
+		<sonar.login>4e310f1c0225b62639eb366e05111428a1911b78</sonar.login>
 		<sonar.coverage.jacoco.xmlReportPaths>coverage.xml</sonar.coverage.jacoco.xmlReportPaths>
 	</properties>
 
