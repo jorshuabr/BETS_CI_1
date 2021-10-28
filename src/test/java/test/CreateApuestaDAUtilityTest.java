@@ -22,7 +22,7 @@ class CreateApuestaDAUtilityTest {
 	
 	@BeforeAll
 	public static void setUp() throws UserAlreadyExistException {
-		sut.registrar("juan23", "pass", "fname", "lname", "31/01", "j@j.com", "1212", 684123123, "k.2.3", 20);
+		//sut.registrar("juan23", "pass", "fname", "lname", "31/01", "j@j.com", "1212", 684123123, "k.2.3", 20);
 	}
 
 	@BeforeEach
@@ -81,12 +81,14 @@ class CreateApuestaDAUtilityTest {
 	@Test
 	@DisplayName("Usuario ya registrado en la BD")
 	public void test4() throws UserAlreadyExistException {
-		//sut.registrar("juan", "pass", "fname", "lname", "31/01", "j@j.com", "1212", 684123123, "k.2.3", 20);
+		int cont=  (int) (Math.random()*100);
+		String name = "Juan" + cont;
+		sut.registrar(name, "pass", "fname", "lname", "31/01", "j@j.com", "1212", 684123123, "k.2.3", 20);
 		Question q = new Question();
 		q.setBetMinimum(9);
 		
 
-		assertThrows(Exception.class, () -> sut.registrar("juan23", "pass", "fname", "lname", "31/01", "j@j.com", "1212", 684123123, "k.2.3", 20));
+		assertThrows(Exception.class, () -> sut.registrar(name, "pass", "fname", "lname", "31/01", "j@j.com", "1212", 684123123, "k.2.3", 20));
 		
 	}
 	
