@@ -3,7 +3,6 @@ package test;
 import static org.junit.jupiter.api.Assertions.*;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
-import org.mockito.Mockito;
 import configuration.ConfigXML;
 import dataAccess.DataAccess;
 import domain.Forecast;
@@ -17,13 +16,20 @@ class CreateApuestaDATest {
 	static DataAccess sut = new DataAccess(ConfigXML.getInstance().getDataBaseOpenMode().equals("initialize"));;
 	static TestUtilityDataAccess testDA = new TestUtilityDataAccess();
 	RegularUser user = new RegularUser("name", "pass", "fname", "lname", "31/01", "j@j.com", "1212", 684123123, "k.2.3", 20);
-	Forecast fo = Mockito.mock(Forecast.class);
+
 	/**/
 	@Test
 	@DisplayName("Test3: ValorApuesta Negativo")
 	public void test1(){
-		int actual = sut.createApuesta(fo, user,-10f);
-		int expected = testDA.comprobarCreateApuesta_test3(fo, user, -12f);
+		float apuesta = -10f;
+		int expected = 0;
+		Forecast fo = new Forecast();
+		int actual = sut.createApuesta(fo, user, apuesta);
+		//int expected = testDA.comprobarCreateApuesta_test3(fo, user, apuesta);
+		
+		if (apuesta < 0) {
+			expected = 4;
+		}
 		assertEquals(actual, expected);
 		
 	}
@@ -34,11 +40,16 @@ class CreateApuestaDATest {
 		Question q = new Question();
 		q.setBetMinimum(10); //apuesta minima 10
 		Forecast f = new Forecast("nameForecaste", 10, q);
+		float apuesta = 3f;
+		int res= 0;
+		int actual = sut.createApuesta(f, user, apuesta);
+		//int expected = testDA.comprobarCreateApuesta_test4(f, user, apuesta);
 		
-		int actual = sut.createApuesta(f, user, 3f);
-		int expected = testDA.comprobarCreateApuesta_test4(f, user, 3f);
+		if (apuesta < f.getQuestion().getBetMinimum()) {
+			res = 3;
+		}
 		
-		assertEquals(expected, actual);
+		assertEquals(res, actual);
 	}
 	
 	@Test
