@@ -79,7 +79,7 @@
 		<sonar.coverage.jacoco.xmlReportPaths>coverage.xml</sonar.coverage.jacoco.xmlReportPaths>
 	</properties>
 
-	<!-- https://mvnrepository.com/artifact/junit/junit --> 
+	<!-- https://mvnrepository.com/artifact/junit/junit -->
 	<dependencies>
 		<dependency>
 			<groupId>org.junit.jupiter</groupId>
@@ -159,7 +159,7 @@
 		<!-- https://mvnrepository.com/artifact/org.sonarsource.scanner.maven/sonar-maven-plugin -->
 		<dependency>
 		    <groupId>org.sonarsource.scanner.maven</groupId>
-		    <artifactId>sonar-maven-plugin</artifactId>
+		    <artifactId>sonar-maven-plugin</artifactId> 
 		    <version>3.9.0.2155</version>
 		</dependency>
 	
